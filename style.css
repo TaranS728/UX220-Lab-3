@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+}
+
+header,
+footer {
+    color: gold;
+    background-color: #472273;
+    padding: 20px;
+    text-align: center;
+}
+
+main {
+    max-width: 800px;
+    margin: 30px auto;
+    padding: 20px;
+}
+
+main h2 {
+    color: #0b3d2e;
+    background-color: #5daec9;
+    padding: 10px;
+}
+
+main p {
+    color: #3d2600;
+    background-color: #ffe0b2;
+    padding: 15px;
+    line-height: 1.6;
+}
+
+footer a {
+    color: gold;
+}
